@@ -1,1 +1,1 @@
-- Considering I love to play CTFs and everything, this is something that I will keep for myself, making cheat sheets as we go and everything.
+# Just some writeups that I'll keep updating as soon as I solve the challenges/boxes by myself.
